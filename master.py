@@ -1,5 +1,5 @@
 import keyboard
-from functions_master import *
+from fonctions.functions_master import *
 
 
 # MASTER IS THE COMPUTER WHERE THE KEYBORD IS CLICKING

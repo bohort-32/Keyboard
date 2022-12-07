@@ -1,5 +1,5 @@
 import keyboard
-from functions_slave import *
+from fonctions.functions_slave import *
 import asyncio
 import websockets
 import warnings
